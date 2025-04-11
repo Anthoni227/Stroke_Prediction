@@ -4,8 +4,7 @@
 This project predicts the likelihood of a stroke based on various health and lifestyle factors using machine learning models. Identifying stroke risk early enables preventive measures to improve healthcare outcomes.
 
 ## 🗂️ Project Workflow
-
-![ChatGPT Image Apr 11, 2025, 09_45_23 AM](https://github.com/user-attachments/assets/9efed28d-8a48-4f17-b31d-12a8dae220c4)
+![stroke_workflow](https://github.com/user-attachments/assets/938f2e19-a3bc-4db6-b2c0-32dcd45738bd)
 
 ### 🧹 Data Preprocessing
 - **🔍 Handling Missing Values**: Missing data was addressed to maintain a clean dataset.
@@ -16,7 +15,7 @@ This project predicts the likelihood of a stroke based on various health and lif
 ### ⚙️ Model Training and Evaluation
 - **🔧 Training**: Models were trained using Scikit-Learn, with hyperparameter tuning conducted via GridSearchCV.
 - **📊 Evaluation**: Models were evaluated on several performance metrics, including accuracy, precision, recall, F1 score, and the AUC-ROC curve.
-- 
+  
 ## 📈 Model Performance
 
 Below is a summary of each model's performance metrics. The **Random Forest Classifier** emerged as the top performer.
